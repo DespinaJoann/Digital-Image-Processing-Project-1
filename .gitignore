@@ -18,5 +18,4 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Results or outputs (optional)
-results/
+

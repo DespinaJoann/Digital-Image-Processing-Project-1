@@ -1,0 +1,4 @@
+Noise Type,Optimal Filter,SSIM
+Gaussian (n1),Gaussian(σ=1.5),0.5703864970723699
+Salt & Pepper (n2),Median(3x3),0.8474460786907233
+Stripe/Complex (n3),FFT Horizontal Suppression,0.22950745533747052
