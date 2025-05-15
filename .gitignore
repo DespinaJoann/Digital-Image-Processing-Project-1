@@ -1,0 +1,22 @@
+# Ignore virtual environments
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VSCode or PyCharm settings (optional)
+.vscode/
+.idea/
+
+# Environment files
+.env
+
+# macOS/Windows/Linux system files (optional but useful)
+.DS_Store
+Thumbs.db
+
+# Results or outputs (optional)
+results/
